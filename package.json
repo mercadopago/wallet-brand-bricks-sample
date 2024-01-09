@@ -1,0 +1,18 @@
+{
+  "name": "wallet-brand-bricks-sample",
+  "version": "1.0.0",
+  "description": "A simple Mercado Pago Wallet & Brand Bricks sample project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "localtunnel": "lt --port 8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "hbs": "^4.1.2",
+    "localtunnel": "^2.0.2",
+    "mercadopago": "^1.5.13"
+  }
+}
