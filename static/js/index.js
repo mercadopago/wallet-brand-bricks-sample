@@ -7,6 +7,13 @@ async function loadWalletBrick() {
     const quantity = document.getElementById('quantity').value;
 
     const settings = {
+        customization: {
+            texts: {
+                action: "buy",
+                actionComplement: "brand",
+                valueProp: "payment_methods_logos",
+            },
+        },
         callbacks: {
             onReady: () => {
                 console.log('brick ready')
