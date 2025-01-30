@@ -8,10 +8,10 @@ async function loadWalletBrick() {
 
     const settings = {
         customization: {
-            texts: {
-                action: "buy",
-                actionComplement: "brand",
-                valueProp: "payment_methods_logos",
+            theme: "default",
+            customStyle: {
+                valueProp: "practicality",
+                valuePropColor: "white",
             },
         },
         callbacks: {
