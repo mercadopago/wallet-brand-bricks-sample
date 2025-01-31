@@ -61,7 +61,7 @@ HOST=YOUR-URL MERCADO_PAGO_SAMPLE_PUBLIC_KEY=YOUR-PUBLIC-KEY MERCADO_PAGO_SAMPLE
 
 ### :test_tube: Testing
 
-On our [testing instructions](https://www.mercadopago.com/developers/en/docs/checkout-bricks/integration/integration-test) you'll find **[credit cards](https://www.mercadopago.com/developers/en/docs/checkout-bricks/additional-content/test-cards)** that can be used along with this sample and a guide on how to create **test users**.
+On our [testing instructions](https://www.mercadopago.com/developers/en/docs/checkout-bricks/integration-test/test-payment-flow) you'll find **[credit cards](https://www.mercadopago.com/developers/en/docs/checkout-bricks/integration-test/test-cards)** that can be used along with this sample and a guide on how to create **test users**.
 
 ## :handshake: Contributing
 
