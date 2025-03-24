@@ -12,7 +12,7 @@ Wallet Brick is used to redirect the payer to Mercado Pago and Brand Brick is us
 
 ## ❗ Attention
 - Brand Brick is currently only available for Argentina. If you are developing for Brazil, Chile, Colombia, Mexico, Peru, and Uruguay, be aware that a skeleton loading banner will remain at the top of the page and disregard the code that implements it.
-- Wallet Brick is currently in a migrations proccess. For now, it is only available for Chile. The integration structure will soon change to accommodate new integrations, but the current one will continue to work.
+- Wallet Brick is currently in a migrations proccess. For now, it is only available for Chile, Colombia, Mexico, Peru, and Uruguay. The integration structure will soon change to accommodate new integrations, but the current one will continue to work.
 
 ## 💡 Requirements
 
